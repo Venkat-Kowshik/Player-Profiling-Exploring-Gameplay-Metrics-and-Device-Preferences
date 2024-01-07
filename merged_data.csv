@@ -1,0 +1,101 @@
+Flight_Number,Flight_Purpose_x,Destination_Type,Average_Speed_kph,Departure_Time,Arrival_Time,Flight_Type,Pilot_License_Type,Distance_Traveled_km,Fuel_Consumption_liters,Weather_Conditions,Flight_Purpose_y,Altitude_Gain_Loss_meters,Payload_Weight_kg
+FLIGHT-001,Emergency Response,Mountainous,297,2024-07-09,2024-07-09,Passenger,Military,539.25,56.17,Clear Sky,Transportation,61.810178271043696,728.3455426177707
+FLIGHT-002,Aerial Survey,Mountainous,243,2024-11-02,2024-11-02,Passenger,Military,870.54,198.09,Clear Sky,Emergency Response,926.0714596148744,582.4867297097084
+FLIGHT-003,Aerial Survey,Mountainous,213,2024-10-27,2024-10-27,Cargo,Military,474.99,10.71,Rainy,Emergency Response,597.9909127171077,378.57485465769497
+FLIGHT-004,Transportation,Urban,266,2024-10-31,2024-10-31,Cargo,Private,544.57,45.36,Cloudy,Emergency Response,397.9877262955549,832.4155177362538
+FLIGHT-005,Aerial Survey,Urban,137,2024-03-20,2024-03-20,Passenger,Private,945.28,84.66,Cloudy,Transportation,-265.97203933634523,716.2580552984914
+FLIGHT-006,Aerial Survey,Mountainous,221,2024-02-09,2024-02-09,Surveillance,Private,812.74,77.23,Cloudy,Emergency Response,-266.00821949569604,246.35524541040218
+FLIGHT-007,Transportation,Rural,181,2024-01-06,2024-01-06,Cargo,Military,830.31,72.68,Clear Sky,Emergency Response,-412.8745817477008,919.8344660444582
+FLIGHT-008,Aerial Survey,Urban,233,2024-09-17,2024-09-17,Surveillance,Military,577.57,197.28,Clear Sky,Emergency Response,799.2642186624028,840.2835186308521
+FLIGHT-009,Emergency Response,Urban,258,2024-10-19,2024-10-19,Cargo,Private,507.22,44.36,Stormy,Emergency Response,401.67251761481316,954.8199219627317
+FLIGHT-010,Emergency Response,Mountainous,239,2024-05-29,2024-05-29,Passenger,Military,992.86,24.65,Clear Sky,Emergency Response,562.1088666940682,753.147557549524
+FLIGHT-011,Emergency Response,Urban,222,2024-03-30,2024-03-30,Cargo,Private,913.54,142.07,Clear Sky,Emergency Response,-469.1232585562963,652.0736763422109
+FLIGHT-012,Transportation,Urban,136,2024-10-10,2024-10-10,Cargo,Commercial,863.54,14.58,Clear Sky,Emergency Response,954.8647782429914,476.418732661557
+FLIGHT-013,Transportation,Rural,144,2024-05-09,2024-05-09,Cargo,Private,226.07,136.52,Cloudy,Transportation,748.6639612006327,939.4556350186119
+FLIGHT-014,Transportation,Mountainous,298,2024-07-24,2024-07-24,Surveillance,Military,268.57,84.58,Cloudy,Emergency Response,-181.4913339825858,879.4575005503675
+FLIGHT-015,Aerial Survey,Rural,182,2024-02-21,2024-02-21,Surveillance,Commercial,998.95,29.93,Clear Sky,Transportation,-227.26254918934904,140.69680309557046
+FLIGHT-016,Emergency Response,Urban,209,2024-12-04,2024-12-04,Surveillance,Commercial,98.09,111.29,Cloudy,Aerial Survey,-224.89323521984926,123.73027704752681
+FLIGHT-017,Transportation,Urban,154,2024-06-28,2024-06-28,Cargo,Commercial,614.8,59.49,Stormy,Aerial Survey,-43.636635560693435,438.8170301902446
+FLIGHT-018,Aerial Survey,Urban,246,2024-06-14,2024-06-14,Medical Evacuation,Military,675.6,171.9,Cloudy,Transportation,287.13464744835676,829.4979977036496
+FLIGHT-019,Aerial Survey,Mountainous,155,2024-08-07,2024-08-07,Surveillance,Military,364.99,42.27,Stormy,Emergency Response,147.9175279631736,988.54851638345
+FLIGHT-020,Aerial Survey,Mountainous,189,2024-09-29,2024-09-29,Cargo,Commercial,979.26,56.42,Rainy,Transportation,-63.1562897029371,235.37520199317535
+FLIGHT-021,Aerial Survey,Mountainous,259,2024-07-19,2024-07-19,Medical Evacuation,Military,407.99,113.72,Clear Sky,Aerial Survey,417.7793420835692,634.7176438169216
+FLIGHT-022,Aerial Survey,Rural,165,2024-05-11,2024-05-11,Cargo,Private,429.07,197.91,Cloudy,Transportation,-290.75920902193724,442.80177096791937
+FLIGHT-023,Aerial Survey,Mountainous,207,2024-05-21,2024-05-21,Cargo,Private,527.95,172.12,Stormy,Aerial Survey,-61.78302719717277,972.9229580331429
+FLIGHT-024,Aerial Survey,Mountainous,268,2024-10-25,2024-10-25,Surveillance,Military,205.51,137.26,Rainy,Transportation,49.54276494053761,857.9070308221378
+FLIGHT-025,Aerial Survey,Urban,149,2024-05-27,2024-05-27,Surveillance,Private,510.76,59.88,Rainy,Transportation,184.10497632555393,854.495834240024
+FLIGHT-026,Transportation,Urban,251,2024-04-09,2024-04-09,Passenger,Private,711.28,96.54,Cloudy,Transportation,677.7639420895205,521.8238438154733
+FLIGHT-027,Emergency Response,Urban,296,2024-04-24,2024-04-24,Cargo,Private,830.61,112.12,Cloudy,Transportation,-200.4893267624604,473.33755210389864
+FLIGHT-028,Aerial Survey,Rural,273,2024-10-25,2024-10-25,Cargo,Commercial,595.44,25.92,Rainy,Transportation,271.3516576204174,346.0663647376356
+FLIGHT-029,Emergency Response,Rural,140,2024-05-28,2024-05-28,Medical Evacuation,Private,80.2,161.24,Clear Sky,Aerial Survey,388.62185329306374,150.7379469858344
+FLIGHT-030,Emergency Response,Mountainous,111,2024-10-16,2024-10-16,Medical Evacuation,Private,784.72,175.15,Clear Sky,Transportation,-430.3243809200034,878.2501386295479
+FLIGHT-031,Transportation,Urban,121,2024-09-16,2024-09-16,Medical Evacuation,Military,91.82,129.49,Stormy,Transportation,411.31727785215753,831.6109082170698
+FLIGHT-032,Aerial Survey,Mountainous,107,2024-03-02,2024-03-02,Cargo,Private,221.97,35.87,Clear Sky,Transportation,-244.2138144690627,999.7459059575175
+FLIGHT-033,Transportation,Mountainous,182,2024-03-17,2024-03-17,Passenger,Commercial,623.75,162.09,Rainy,Emergency Response,-402.42261052208073,996.9731533665148
+FLIGHT-034,Transportation,Rural,223,2024-07-30,2024-07-30,Cargo,Commercial,646.11,176.23,Rainy,Aerial Survey,923.3283058799998,599.8885350423648
+FLIGHT-035,Aerial Survey,Rural,101,2024-01-28,2024-01-28,Cargo,Military,457.04,174.58,Rainy,Transportation,948.448049611839,792.0886736624594
+FLIGHT-036,Transportation,Mountainous,197,2024-11-21,2024-11-21,Surveillance,Military,233.39,74.32,Clear Sky,Aerial Survey,712.5960221746916,950.2891568941852
+FLIGHT-037,Aerial Survey,Rural,160,2024-02-29,2024-02-29,Passenger,Private,725.82,140.28,Stormy,Transportation,-43.07934623994396,864.6826516096703
+FLIGHT-038,Emergency Response,Urban,153,2024-12-05,2024-12-05,Cargo,Commercial,202.93,42.91,Clear Sky,Emergency Response,-353.4918289904242,322.6132915688779
+FLIGHT-039,Aerial Survey,Mountainous,270,2024-03-05,2024-03-05,Cargo,Private,218.16,51.69,Stormy,Aerial Survey,526.3495397682354,505.48972177908416
+FLIGHT-040,Transportation,Mountainous,223,2024-03-27,2024-03-27,Cargo,Private,534.65,74.15,Clear Sky,Emergency Response,160.22874060940194,216.24347363634547
+FLIGHT-041,Aerial Survey,Urban,131,2024-08-17,2024-08-17,Passenger,Private,823.23,102.51,Rainy,Emergency Response,-316.9426477328318,958.6459245328501
+FLIGHT-042,Emergency Response,Rural,234,2024-10-04,2024-10-04,Cargo,Commercial,632.64,38.81,Rainy,Transportation,242.76536516690533,645.557171005792
+FLIGHT-043,Aerial Survey,Mountainous,125,2024-08-08,2024-08-08,Passenger,Private,644.22,164.48,Cloudy,Aerial Survey,-448.4172183271724,305.77852495311646
+FLIGHT-044,Aerial Survey,Rural,281,2024-01-08,2024-01-08,Cargo,Private,230.93,19.65,Clear Sky,Aerial Survey,863.9806031181731,704.5306159652711
+FLIGHT-045,Transportation,Rural,135,2024-09-02,2024-09-02,Passenger,Military,201.56,73.86,Clear Sky,Aerial Survey,-111.83002759997464,656.3154164121063
+FLIGHT-046,Aerial Survey,Rural,160,2024-10-14,2024-10-14,Cargo,Commercial,155.98,176.81,Cloudy,Aerial Survey,493.783426530973,422.3464462295565
+FLIGHT-047,Aerial Survey,Urban,266,2024-07-22,2024-07-22,Surveillance,Commercial,167.68,141.68,Rainy,Transportation,-32.433385865883565,202.2018329796661
+FLIGHT-048,Transportation,Mountainous,200,2024-09-14,2024-09-14,Cargo,Private,344.99,158.44,Clear Sky,Transportation,280.1020317667162,704.4158760335197
+FLIGHT-049,Aerial Survey,Urban,102,2024-03-19,2024-03-19,Cargo,Private,527.77,53.53,Cloudy,Emergency Response,320.0654190149195,568.276930813414
+FLIGHT-050,Transportation,Rural,265,2024-06-14,2024-06-14,Passenger,Military,272.11,118.91,Clear Sky,Transportation,-222.71831671170946,795.0865525620754
+FLIGHT-051,Aerial Survey,Mountainous,292,2024-10-13,2024-10-13,Surveillance,Military,253.41,78.45,Stormy,Aerial Survey,954.3769416468378,568.1471510007941
+FLIGHT-052,Emergency Response,Rural,262,2024-07-24,2024-07-24,Cargo,Private,558.6,165.46,Rainy,Transportation,662.6992350416717,866.9633502866861
+FLIGHT-053,Transportation,Urban,147,2024-02-04,2024-02-04,Surveillance,Commercial,209.22,134.92,Stormy,Emergency Response,909.2484123462837,596.716154897037
+FLIGHT-054,Transportation,Rural,227,2024-04-06,2024-04-06,Medical Evacuation,Private,152.17,66.14,Rainy,Aerial Survey,842.2410256414732,604.8441743818477
+FLIGHT-055,Emergency Response,Rural,252,2024-02-26,2024-02-26,Surveillance,Commercial,531.02,53.53,Cloudy,Aerial Survey,396.84996821662776,888.9882423925105
+FLIGHT-056,Aerial Survey,Urban,116,2024-09-02,2024-09-02,Medical Evacuation,Military,975.27,149.56,Rainy,Emergency Response,882.8113525346753,463.1345795911573
+FLIGHT-057,Transportation,Urban,245,2024-01-09,2024-01-09,Medical Evacuation,Private,432.48,185.27,Rainy,Emergency Response,-367.2612469221208,220.61370560557665
+FLIGHT-058,Emergency Response,Mountainous,196,2024-12-13,2024-12-13,Surveillance,Military,889.11,148.3,Cloudy,Aerial Survey,-206.02570637128218,125.90440868200508
+FLIGHT-059,Transportation,Urban,299,2024-04-15,2024-04-15,Surveillance,Private,549.03,136.0,Rainy,Transportation,-432.15906663419287,779.6235301062571
+FLIGHT-060,Emergency Response,Mountainous,168,2024-03-08,2024-03-08,Passenger,Military,699.06,161.75,Clear Sky,Transportation,-12.004503855103508,658.2785962181182
+FLIGHT-061,Aerial Survey,Rural,249,2024-02-11,2024-02-11,Surveillance,Military,533.89,129.74,Cloudy,Aerial Survey,83.01593453422299,733.6717912893013
+FLIGHT-062,Transportation,Urban,145,2024-09-03,2024-09-03,Surveillance,Private,732.1,88.25,Cloudy,Aerial Survey,-92.97645233915614,291.66774535801966
+FLIGHT-063,Transportation,Rural,239,2024-06-11,2024-06-11,Medical Evacuation,Commercial,506.36,141.12,Cloudy,Aerial Survey,743.106263727894,222.7343280280928
+FLIGHT-064,Transportation,Urban,290,2024-08-19,2024-08-19,Cargo,Private,582.59,53.26,Stormy,Transportation,35.12999004038397,113.09019910109373
+FLIGHT-065,Emergency Response,Urban,232,2024-10-24,2024-10-24,Medical Evacuation,Private,242.09,99.8,Stormy,Transportation,-78.59823546892886,415.52880292593727
+FLIGHT-066,Aerial Survey,Mountainous,170,2024-02-08,2024-02-08,Surveillance,Military,631.22,136.66,Rainy,Aerial Survey,314.0441247373727,630.9259181691698
+FLIGHT-067,Emergency Response,Mountainous,271,2024-05-28,2024-05-28,Cargo,Private,932.36,87.78,Cloudy,Emergency Response,-288.61366253785604,453.0196405897591
+FLIGHT-068,Emergency Response,Urban,288,2024-10-17,2024-10-17,Cargo,Private,184.62,116.9,Rainy,Aerial Survey,703.2954711310595,493.72742982135617
+FLIGHT-069,Emergency Response,Mountainous,219,2024-01-06,2024-01-06,Medical Evacuation,Military,958.83,57.69,Clear Sky,Aerial Survey,-388.1740344803438,913.7428250443736
+FLIGHT-070,Transportation,Mountainous,134,2024-02-09,2024-02-09,Cargo,Commercial,916.54,191.3,Cloudy,Transportation,980.3304049007759,413.4299203209703
+FLIGHT-071,Transportation,Rural,296,2024-06-15,2024-06-15,Surveillance,Military,854.39,188.96,Clear Sky,Aerial Survey,658.3671539449861,562.5905402438298
+FLIGHT-072,Transportation,Urban,186,2024-06-26,2024-06-26,Medical Evacuation,Private,692.37,22.56,Rainy,Transportation,-201.9264776987414,805.2877114670288
+FLIGHT-073,Transportation,Mountainous,177,2024-11-10,2024-11-10,Surveillance,Private,580.96,132.88,Stormy,Emergency Response,-491.7168243145964,456.88850408914317
+FLIGHT-074,Aerial Survey,Rural,250,2024-03-07,2024-03-07,Cargo,Commercial,224.51,162.63,Rainy,Aerial Survey,723.1921426822512,659.8780302050861
+FLIGHT-075,Aerial Survey,Rural,220,2024-12-11,2024-12-11,Passenger,Military,819.08,89.92,Clear Sky,Emergency Response,560.2860157714256,876.1273378720707
+FLIGHT-076,Emergency Response,Urban,166,2024-11-15,2024-11-15,Surveillance,Military,999.65,114.58,Cloudy,Aerial Survey,593.5107520614811,954.5685612918779
+FLIGHT-077,Transportation,Mountainous,136,2024-05-20,2024-05-20,Surveillance,Commercial,126.51,143.25,Rainy,Emergency Response,656.9055200289185,232.36613283613414
+FLIGHT-078,Aerial Survey,Urban,157,2024-04-26,2024-04-26,Medical Evacuation,Private,542.28,104.79,Cloudy,Transportation,-388.93302239886447,933.9288626453449
+FLIGHT-079,Aerial Survey,Rural,107,2024-09-06,2024-09-06,Passenger,Commercial,445.12,135.66,Stormy,Aerial Survey,37.698592816408905,542.9046637715844
+FLIGHT-080,Aerial Survey,Rural,165,2024-02-04,2024-02-04,Medical Evacuation,Military,337.94,188.22,Stormy,Aerial Survey,-326.19641071230546,332.41994946906254
+FLIGHT-081,Transportation,Rural,202,2024-07-08,2024-07-08,Medical Evacuation,Commercial,264.6,193.04,Stormy,Emergency Response,794.6551388133903,513.2221806144352
+FLIGHT-082,Aerial Survey,Rural,146,2024-11-30,2024-11-30,Passenger,Commercial,456.89,125.21,Cloudy,Transportation,434.9471902413369,982.0293177569293
+FLIGHT-083,Transportation,Urban,258,2024-02-01,2024-02-01,Cargo,Military,341.66,88.72,Rainy,Emergency Response,-3.6529627210261992,543.3562845935826
+FLIGHT-084,Transportation,Rural,128,2024-06-28,2024-06-28,Surveillance,Military,717.88,165.93,Cloudy,Emergency Response,-404.66247457096455,395.8764492587574
+FLIGHT-085,Aerial Survey,Urban,287,2024-09-20,2024-09-20,Medical Evacuation,Military,560.52,195.64,Cloudy,Transportation,-33.5265174265067,670.0607688850532
+FLIGHT-086,Aerial Survey,Rural,201,2024-11-10,2024-11-10,Cargo,Military,771.42,98.55,Rainy,Emergency Response,-12.22501695987944,316.1310569003738
+FLIGHT-087,Aerial Survey,Mountainous,255,2024-01-22,2024-01-22,Medical Evacuation,Military,828.93,49.06,Stormy,Emergency Response,594.409267507096,168.27699529779753
+FLIGHT-088,Transportation,Mountainous,140,2024-07-20,2024-07-20,Medical Evacuation,Military,344.39,100.46,Stormy,Aerial Survey,456.33620703281963,215.9917497195843
+FLIGHT-089,Transportation,Rural,218,2024-03-05,2024-03-05,Surveillance,Military,78.67,20.33,Rainy,Emergency Response,830.8191138644897,215.2412550619952
+FLIGHT-090,Emergency Response,Rural,124,2024-04-04,2024-04-04,Passenger,Private,78.66,186.04,Cloudy,Aerial Survey,208.32238774292398,236.71242416106492
+FLIGHT-091,Aerial Survey,Rural,102,2024-07-22,2024-07-22,Surveillance,Military,570.31,135.82,Cloudy,Transportation,-320.60863109254745,224.9444553844691
+FLIGHT-092,Transportation,Rural,140,2024-04-29,2024-04-29,Medical Evacuation,Private,478.44,54.33,Stormy,Emergency Response,569.8671808344925,676.7872703228932
+FLIGHT-093,Emergency Response,Rural,273,2024-03-05,2024-03-05,Surveillance,Private,983.24,50.57,Clear Sky,Transportation,641.1775729253461,263.69207595923035
+FLIGHT-094,Emergency Response,Rural,117,2024-12-06,2024-12-06,Medical Evacuation,Private,767.56,43.28,Clear Sky,Aerial Survey,341.9157963542443,411.1005549914769
+FLIGHT-095,Transportation,Rural,286,2024-04-14,2024-04-14,Medical Evacuation,Commercial,130.97,185.67,Clear Sky,Aerial Survey,656.4507699318415,907.1095689154106
+FLIGHT-096,Transportation,Mountainous,205,2024-12-16,2024-12-16,Cargo,Commercial,734.4,117.11,Cloudy,Aerial Survey,240.6933945465861,526.5654762365851
+FLIGHT-097,Emergency Response,Rural,122,2024-08-19,2024-08-19,Passenger,Military,945.46,194.41,Cloudy,Emergency Response,284.09924407299104,700.8019646689245
+FLIGHT-098,Aerial Survey,Urban,178,2024-08-03,2024-08-03,Surveillance,Commercial,309.06,26.79,Stormy,Aerial Survey,141.31152753782442,255.08788408146685
+FLIGHT-099,Emergency Response,Urban,184,2024-06-26,2024-06-26,Passenger,Commercial,293.09,196.96,Clear Sky,Aerial Survey,-461.87130988385724,273.06011692780373
+FLIGHT-100,Transportation,Rural,127,2024-10-19,2024-10-19,Medical Evacuation,Private,304.09,94.76,Stormy,Emergency Response,-338.1628595100433,136.78175463983098
